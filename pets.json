@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "Rex",
+    "breed": "Labrador",
+    "age": 1,
+    "photo": "https://blog-static.petlove.com.br/wp-content/uploads/2019/11/GettyImages-654812442.jpg",
+    "healthHistory": [
+      {
+        "date": "2023-01-10",
+        "event": "Vacinação antirrábica"
+      },
+      {
+        "date": "2024-03-22",
+        "event": "Tratamento de alergia"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mimi",
+    "breed": "Persa",
+    "age": 5,
+    "photo": "https://blog-static.petlove.com.br/wp-content/uploads/2021/05/Gato-persa-tricolor.jpg",
+    "healthHistory": [
+      {
+        "date": "2020-11-05",
+        "event": "Cirurgia de esterilização"
+      },
+      {
+        "date": "2023-02-15",
+        "event": "Tratamento de infecção ocular"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Toby",
+    "breed": "Beagle",
+    "age": 7,
+    "photo": "https://blog.polipet.com.br/wp-content/uploads/2023/01/AdobeStock_168506725-445x445.jpeg",
+    "healthHistory": [
+      {
+        "date": "2020-05-20",
+        "event": "Vacinação contra raiva"
+      },
+      {
+        "date": "2021-03-10",
+        "event": "Tratamento de alergia"
+      },
+      {
+        "date": "2021-08-14",
+        "event": "Vacinação múltipla"
+      },
+      {
+        "date": "2022-04-15",
+        "event": "Check-up anual"
+      },
+      {
+        "date": "2022-12-09",
+        "event": "Tratamento de otite"
+      },
+      {
+        "date": "2023-07-30",
+        "event": "Desparasitação"
+      }
+    ]
+  }
+  
+]

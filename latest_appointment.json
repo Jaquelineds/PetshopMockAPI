@@ -1,0 +1,9 @@
+{
+  "petId": 1,
+  "serviceId": 2,
+  "date": "2024-08-03",
+  "time": "15:00",
+  "clinicName": "Pet Clinic",
+  "clinicAddress": "123 Pet Street",
+  "clinicPhone": "555-555-5555"
+}

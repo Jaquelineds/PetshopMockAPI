@@ -1,0 +1,119 @@
+[
+  {
+    "petId": 3,
+    "serviceId": 3,
+    "date": "2024-07-17",
+    "time": "15:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 3,
+    "serviceId": 2,
+    "date": "2024-07-19",
+    "time": "09:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 2,
+    "serviceId": 2,
+    "date": "2024-07-19",
+    "time": "14:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 10,
+    "date": "2024-07-20",
+    "time": "08:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 3,
+    "date": "2024-07-20",
+    "time": "10:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 2,
+    "serviceId": 8,
+    "date": "2024-07-20",
+    "time": "09:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 8,
+    "date": "2024-08-03",
+    "time": "14:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 1,
+    "date": "2024-08-01",
+    "time": "09:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 10,
+    "date": "2024-08-03",
+    "time": "09:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 2,
+    "date": "03/08/2024",
+    "time": "15:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 5,
+    "date": "31/07/2024",
+    "time": "09:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 2,
+    "serviceId": 3,
+    "date": "2024-08-01",
+    "time": "09:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  },
+  {
+    "petId": 1,
+    "serviceId": 2,
+    "date": "2024-08-03",
+    "time": "15:00",
+    "clinicName": "Pet Clinic",
+    "clinicAddress": "123 Pet Street",
+    "clinicPhone": "555-555-5555"
+  }
+]
