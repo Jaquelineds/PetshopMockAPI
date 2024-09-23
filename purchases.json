@@ -1,0 +1,140 @@
+[
+  {
+    "orderId": 1,
+    "cartItems": [
+      {
+        "category": "Alimentação",
+        "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg",
+        "name": "Ração Premium para Cães",
+        "price": 120.5,
+        "quantity": 1
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  },
+  {
+    "orderId": 2,
+    "cartItems": [
+      {
+        "category": "Alimentação",
+        "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg",
+        "name": "Ração Premium para Cães",
+        "price": 120.5,
+        "quantity": 1
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  },
+  {
+    "orderId": 3,
+    "cartItems": [
+      {
+        "category": "Alimentação",
+        "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg",
+        "name": "Ração Premium para Cães",
+        "price": 120.5,
+        "quantity": 1
+      },
+      {
+        "category": "Brinquedos",
+        "description": "Brinquedo resistente para cães de todos os portes, ajuda a manter os dentes limpos e a gengiva saudável.",
+        "id": 3,
+        "image": "https://images.tcdn.com.br/img/img_prod/573283/brinquedo_mordedor_para_cachorro_spinner_super_resistente_odontopet_mastigacao_para_caes_filhotes_ro_537043_1_20200514225343.jpg",
+        "name": "Brinquedo Mordedor para Cães",
+        "price": 25,
+        "quantity": 3
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  },
+  {
+    "orderId": 4,
+    "cartItems": [
+      {
+        "category": "Alimentação",
+        "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg",
+        "name": "Ração Premium para Cães",
+        "price": 120.5,
+        "quantity": 1
+      },
+      {
+        "category": "Higiene",
+        "description": "Areia higiênica de longa duração, ideal para manter a caixa de areia do seu gato limpa e sem odores.",
+        "id": 2,
+        "image": "https://carrefourbr.vtexassets.com/arquivos/ids/95007183/727e6dda73604cd2aa4f471ce55b645c.jpg?v=638089956182900000",
+        "name": "Areia Sanitária para Gatos",
+        "price": 35.9,
+        "quantity": 1
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  },
+  {
+    "orderId": 5,
+    "cartItems": [
+      {
+        "category": "Alimentação",
+        "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg",
+        "name": "Ração Premium para Cães",
+        "price": 120.5,
+        "quantity": 1
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  },
+  {
+    "orderId": 6,
+    "cartItems": [
+      {
+        "category": "Alimentação",
+        "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg",
+        "name": "Ração Premium para Cães",
+        "price": 120.5,
+        "quantity": 2
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  },
+  {
+    "orderId": 7,
+    "cartItems": [
+      {
+        "category": "Higiene",
+        "description": "Areia higiênica de longa duração, ideal para manter a caixa de areia do seu gato limpa e sem odores.",
+        "id": 2,
+        "image": "https://carrefourbr.vtexassets.com/arquivos/ids/95007183/727e6dda73604cd2aa4f471ce55b645c.jpg?v=638089956182900000",
+        "name": "Areia Sanitária para Gatos",
+        "price": 35.9,
+        "quantity": 3
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  },
+  {
+    "orderId": 8,
+    "cartItems": [
+      {
+        "category": "Alimentação",
+        "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg",
+        "name": "Ração Premium para Cães",
+        "price": 120.5,
+        "quantity": 2
+      }
+    ],
+    "status": "Compra finalizada com sucesso"
+  }
+]
