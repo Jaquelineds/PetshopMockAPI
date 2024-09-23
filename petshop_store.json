@@ -1,46 +1,51 @@
 [
   {
+    "id": 1,
     "name": "Ração Premium para Cães",
     "category": "Alimentação",
     "price": 120.50,
     "availability": true,
-    "quantity": 50,
+    "stockQuantity": 2,
     "description": "Ração de alta qualidade com nutrientes essenciais para a saúde do seu cão.",
     "image": "https://m.media-amazon.com/images/I/415R5uPeS9L._SL500_.jpg"
   },
   {
+    "id": 2,
     "name": "Areia Sanitária para Gatos",
     "category": "Higiene",
     "price": 35.90,
     "availability": true,
-    "quantity": 100,
+    "stockQuantity": 10,
     "description": "Areia higiênica de longa duração, ideal para manter a caixa de areia do seu gato limpa e sem odores.",
     "image": "https://carrefourbr.vtexassets.com/arquivos/ids/95007183/727e6dda73604cd2aa4f471ce55b645c.jpg?v=638089956182900000"
   },
   {
+    "id": 3,
     "name": "Brinquedo Mordedor para Cães",
     "category": "Brinquedos",
     "price": 25.00,
     "availability": true,
-    "quantity": 75,
+    "stockQuantity": 5,
     "description": "Brinquedo resistente para cães de todos os portes, ajuda a manter os dentes limpos e a gengiva saudável.",
     "image": "https://images.tcdn.com.br/img/img_prod/573283/brinquedo_mordedor_para_cachorro_spinner_super_resistente_odontopet_mastigacao_para_caes_filhotes_ro_537043_1_20200514225343.jpg"
   },
   {
+    "id": 4,
     "name": "Arranhador para Gatos",
     "category": "Acessórios",
     "price": 150.00,
     "availability": false,
-    "quantity": 0,
+    "stockQuantity": 0,
     "description": "Arranhador durável para gatos, perfeito para afiar as garras e se divertir.",
     "image": "https://blog-static.petlove.com.br/wp-content/uploads/2015/08/arranhador-para-gato.jpg"
   },
   {
+    "id": 5,
     "name": "Shampoo Neutro para Pets",
     "category": "Higiene",
     "price": 29.90,
     "availability": true,
-    "quantity": 200,
+    "stockQuantity": 20,
     "description": "Shampoo neutro e suave, adequado para todos os tipos de pelagem e pele sensível.",
     "image": "https://www.katirapet.com.br/uploads/katirapet/produtos_imagens/shampoo-neutro1614951595227670931.png"
   }
